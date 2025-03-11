@@ -1,0 +1,52 @@
+[
+  {
+    "item": "Tomato",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Cabbage",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Eggplant",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Lady-finger",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Bottle-Gourd",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Potato",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Capsicum",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Pumpkin-Patch",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Green chilli",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  },
+  {
+    "item": "Kof-Radish",
+    "price": 10,
+    "description": "adipiscing elit, sed do eiusmod tempor"
+  }
+]

@@ -1,0 +1,7 @@
+echo "node_modules/" >> .gitignore
+
+picked/
+
+admin-lite/
+
+node_modules/
